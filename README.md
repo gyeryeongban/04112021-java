@@ -33,4 +33,4 @@ Ref. Baekjoon Online Judge: Solve the Problem Step by Step
 - 2562. 최댓값
 
 ## :round_pushpin: Step 6. 함수
-- 1559. 정수 N개의 합
+- 15596. 정수 N개의 합
